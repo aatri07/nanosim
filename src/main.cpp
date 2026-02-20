@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main() {
-    std::cout << "NanoSim Engine Initialized" << std:end1;
+    std::cout << "NanoSim Engine Initialized" << std::endl;
     return 0;
 }
