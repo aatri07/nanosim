@@ -1,0 +1,3 @@
+/home/aat07/projects/nanosim/build/CMakeFiles/NanoSim.dir
+/home/aat07/projects/nanosim/build/CMakeFiles/edit_cache.dir
+/home/aat07/projects/nanosim/build/CMakeFiles/rebuild_cache.dir
